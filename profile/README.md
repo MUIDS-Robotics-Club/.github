@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/VEX-V5-EE2A24?style=for-the-badge" alt="VEX V5" />
   <img src="https://img.shields.io/badge/Teams-61208A%20%7C%2061208B-1F6FEB?style=for-the-badge" alt="Teams 61208A and 61208B" />
   <img src="https://img.shields.io/badge/Salaya,_Thailand-%F0%9F%87%B9%F0%9F%87%AD-2EA043?style=for-the-badge" alt="Salaya, Thailand" />
+  <a href="https://muids.mahidol.ac.th"><img src="https://img.shields.io/badge/MUIDS-muids.mahidol.ac.th-C8102E?style=for-the-badge" alt="MUIDS website" /></a>
 </p>
 
 <p><i>sugarFree &amp; sugarFree2 — all the flavor, none of the fluff.</i></p>
@@ -42,11 +43,6 @@ and match strategy. Everything we write, we share here.
 | **61208A** | sugarFree | VEX VRC — V5 |
 | **61208B** | sugarFree2 | VEX VRC — V5 |
 
-## 📦 Repositories
-
-- [**.github**](https://github.com/MUIDS-Robotics-Club/.github) — club profile and org docs
-- Team code for 61208A and 61208B lands here as the season progresses.
-
 ## 🚀 Join us
 
 Interested in robotics, programming, design, or just making things move? MUIDS students can
@@ -54,14 +50,15 @@ join at the start of each semester — no experience required, only curiosity.
 
 ## 📫 Contact
 
+- Instagram: [@muids.robotics](https://instagram.com/muids.robotics)
 - GitHub: [@MUIDS-Robotics-Club](https://github.com/MUIDS-Robotics-Club)
-- For collaboration or scouting questions, open an issue in any of our repositories.
+- School: [muids.mahidol.ac.th](https://muids.mahidol.ac.th)
 
 <div align="center">
 
 <br />
 
-**Built by students. Powered by sugar.**
+**Built by students. Powered by Coke Zero.**
 
 <sub>MUIDS Robotics Club · 61208A · 61208B</sub>
 
