@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Salaya,_Thailand-%F0%9F%87%B9%F0%9F%87%AD-2EA043?style=for-the-badge" alt="Salaya, Thailand" />
 </p>
 
-<p><i>sugarFree — all the flavor, none of the fluff.</i></p>
+<p><i>sugarFree &amp; sugarFree2 — all the flavor, none of the fluff.</i></p>
 
 </div>
 
@@ -21,7 +21,7 @@
 ## 🍬 Who we are
 
 We're a student-run robotics club at MUIDS, competing in VEX V5 with two squads:
-**61208A** and **61208B**, both racing under the name **sugarFree**.
+**61208A** (sugarFree) and **61208B** (sugarFree2).
 
 We build, program, and drive our own robots — from CAD and fabrication to autonomous routines
 and match strategy. Everything we write, we share here.
@@ -40,7 +40,7 @@ and match strategy. Everything we write, we share here.
 | Team | Name | Program |
 |:--|:--|:--|
 | **61208A** | sugarFree | VEX VRC — V5 |
-| **61208B** | sugarFree | VEX VRC — V5 |
+| **61208B** | sugarFree2 | VEX VRC — V5 |
 
 ## 📦 Repositories
 

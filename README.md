@@ -2,6 +2,6 @@
 
 Org-wide files for the [MUIDS Robotics Club](https://github.com/MUIDS-Robotics-Club):
 VEX Robotics at Mahidol University International Demonstration School, teams
-**61208A** and **61208B** — *sugarFree*.
+**61208A** (sugarFree) and **61208B** (sugarFree2).
 
 The org profile README lives in [`profile/README.md`](profile/README.md).
