@@ -31,9 +31,9 @@ and match strategy. Everything we write, we share here.
 
 | | |
 |:--|:--|
-| **Build** | Metal, motors, and a lot of zip ties. Custom drivetrains, intakes, and lifts designed in CAD before they're cut. |
-| **Code** | Autonomous routines, driver control, and odometry in C++ for VEX V5. Tuned on the field, not on paper. |
-| **Compete** | VEX VRC events around Thailand and beyond — qualifications, skills runs, and the occasional all-nighter. |
+| **Build** | Metal, motors, and a lot of zip ties. Drivetrains, lifts, and sometimes intakes — adapted from YouTube. |
+| **Code** | Autonomous routines, driver control, and odometry in Python for VEX V5. Tuned on a table. |
+| **Compete** | VEX VRC events around Thailand and beyond — qualifications, skills runs, and the occasional 5:30–6:00 PM session. |
 | **Share** | Our team code and tools live here, open for other teams to learn from. |
 
 ## 🏆 Teams
